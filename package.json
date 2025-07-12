@@ -1,4 +1,11 @@
 {
+  "name": "remax-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cd backend && npm start"
+  }
+}{
   "dependencies": {
     "markdown-it": "^14.1.0",
     "react-icons": "^5.5.0",
