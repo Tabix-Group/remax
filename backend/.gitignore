@@ -10,8 +10,6 @@ yarn-error.log*
 .env.production
 
 # Database
-dev.db
-dev.db-journal
 migrations/
 
 # Uploads
